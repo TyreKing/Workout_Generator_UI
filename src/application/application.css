@@ -1,0 +1,29 @@
+
+#Container{
+	-fx-background-color: #2F4858;
+	-fx-border-style: solid;
+	-fx-border-width: 1em;
+	-fx-border-color: #5EC27B;
+}
+
+#textContainer{
+	-fx-background-color: #007984; 
+	-fx-border-style: solid; 
+	-fx-border-width: 2em;
+}
+#text-Area, #brand{
+	-fx-font-family: impact;
+}
+#brand{
+	 -fx-font-size: 3.5em;
+}
+
+#workoutButton{
+	-fx-background-color: #007984;
+	-fx-font-family: impact; 
+	-fx-font-size: 2em;
+}
+
+
+
+
